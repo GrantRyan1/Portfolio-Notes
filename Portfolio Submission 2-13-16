@@ -1,0 +1,7 @@
+      Understanding Portfolio  2-13-16
+
+
+Socket I/O
+  Sockets, from my understanding are where the data is sent too. Without a socket destination, there would be any place
+  to send the data too. The socket i/o principle seems to be used a lot when developing chat applications. My teacm has 
+  talked a lot about that in recent presentations. 
