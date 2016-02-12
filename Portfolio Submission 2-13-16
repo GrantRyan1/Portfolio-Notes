@@ -2,6 +2,17 @@
 
 
 Socket I/O
-  Sockets, from my understanding are where the data is sent too. Without a socket destination, there would be any place
-  to send the data too. The socket i/o principle seems to be used a lot when developing chat applications. My teacm has 
+  Sockets, from my understanding are where the data is sent too and where it comes from. Without a socket destination, there wouldn't be 
+  any place to send the data too. The socket i/o principle seems to be used a lot when developing chat applications. My team has 
   talked a lot about that in recent presentations. 
+  One of the things that I have understood with Socket I/O is that there is a client and a server. The client often requests data and
+  the server can respond to that request and send data back to it. It also can work visa-versa, with the server requesting data and the
+  client will respond with necessary data. But most often, the server is the listener of the two.
+ 
+Here is some example code used for socket i/o to be used in my application application: 
+      https://github.com/GrantRyan1/JAVA-2/blob/master/Socket-IO%20example
+
+
+
+
+
