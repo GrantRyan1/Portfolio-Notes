@@ -1,0 +1,33 @@
+
+
+  Portfolio Submission Week 6
+    
+    JSON Serialization
+    
+      This week I studied some JSON. I actually determined that it's a pretty useful tool for developing. From my understanding,
+      you can use it for a variety of reasons. I studied how you can use it to store data on a server, how it's similar to JavaScript,
+      and how it's nice to use because it's self-describing meaning it's really easy for us to read.
+      
+Heres a link to my JSON code: https://github.com/GrantRyan1/JAVA-2.git 
+      Navigate to the "JSONexample" file to see
+
+
+    Application Controller Pattern
+      From my studies, it seems that this is a pattern that is used to control the views and the structure of an appliation. Moving 
+      from page to page can be extremely difficult and writing the code an make it more complex if not impossible to figure out. This
+      pattern allows for the developers to help transition from view to view. It also helps them to bring up certain pages, due to the logic 
+      of them, and invoke them at different times when needed. From the book I also was abe to surmise that the Pattern allows for us to 
+      invoke specific functions or classes, or methods that specifically are needed for our application. It gave an example that has the 
+      Pattern being used to call a target that calls a handler for specific situations. This handler is used whenever another class needs 
+      that task done.
+      
+  Here is a link to PDF that I drew of a basic diagram: https://drive.google.com/file/d/0By6qkKpIcTPJVkFRMENxZzR1M2M/view?usp=sharing
+  
+  
+   MVC 
+      MVC is a framework we are using to build our web applications. The model stores the data. The view presents the data to the user
+      based on the changes that were made to the model. The controller sends commands to the model to change the data or update the state
+      of the model. For example, editing a document.
+    
+      Here is a link to a diagram that I really liked: https://drive.google.com/file/d/0By6qkKpIcTPJbmdtdUFGWEVjVHM/view?usp=sharing
+      Here is a link to the Model Class Diagram for our group application: https://github.com/GrantRyan1/JAVA-2/blob/master/Model.Class.Diagram.pdf
