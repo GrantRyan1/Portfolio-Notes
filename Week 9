@@ -10,4 +10,11 @@ HIBERNATE
     https://github.com/GrantRyan1/JAVA-2/blob/master/Hibernate%20Examples
     
     
+JUNIT Tests
+    While looking at Junit testing, it became very clear of what their purpose was for. They are written so you can test the code
+    that you have written. The are set up to fail so you have to change your parameters if you have Eclipse do most of the writing,
+    but that can easily be helped. Several tests are written so that you can figure out what parts of the program is failing and 
+    where there might be holes in what is written.
+    
+    Here is a link to my example code for Junit Testing:
     
