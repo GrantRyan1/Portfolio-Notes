@@ -9,6 +9,7 @@ HIBERNATE
   Here is the link to my git and code that for some different examples:
     https://github.com/GrantRyan1/JAVA-2/blob/master/Hibernate%20Examples
     
+
     
 JUNIT Tests
     While looking at Junit testing, it became very clear of what their purpose was for. They are written so you can test the code
@@ -18,3 +19,14 @@ JUNIT Tests
     
     Here is a link to my example code for Junit Testing:
         https://github.com/GrantRyan1/JAVA-2/blob/master/JUnit%20Testing
+
+
+
+HTTP URL Connection
+    These technologies are use to be able to make connections. They help to read and write to servers and conenct to webpages. This
+    is useful since we are writing a web application.
+    
+    Here is a link to my code:
+        https://github.com/GrantRyan1/JAVA-2/blob/master/HttpURLConnection
+
+
