@@ -1,7 +1,7 @@
 
   Week 10 Portfolio
   
-  This last week I focused on upgrading my Application Controller Portfolio and the remaining code examples I had left.
+  This last week I focused on upgrading my Application Controller Portfolio and the remaining code topics I had left.
   
   Application Controller Pattern
     Here is the link to my code example:
@@ -13,3 +13,11 @@
       https://github.com/GrantRyan1/JAVA-2/blob/master/Executors
         https://github.com/GrantRyan1/JAVA-2/blob/master/ThreadsAndRunnables
           
+          
+  Here also is a link to our group application that we are working on and will be presenting on this next week. 
+    It uses topics such as connecting sockets to the server and handling requests from the client/server by the AppControler.
+    It also shows threads, runnables, and a JSONObject we will be creating to send data back and forth about the FlashCards.
+    
+    https://github.com/GrantRyan1/JAVA-2/blob/master/ApplicationControllerFlashCard
+  AND
+    https://github.com/GrantRyan1/JAVA-2/blob/master/ControllerFlashCard
